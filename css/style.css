@@ -13,7 +13,9 @@ LI {
 TD {
 	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana, arial, helvetica, sans-serif
 }
-
+.bodystyle {
+	BACKGROUND-IMAGE: url(../img/bg.gif)
+}
 #tblmain {
 	BACKGROUND-COLOR: #ffffff
 }
@@ -42,7 +44,7 @@ DIV#content {
 	COLOR: #666699; TEXT-DECORATION: none
 }
 H2 {
-	FONT-SIZE: 24px; WIDTH: 100%; COLOR: #406480; BORDER-BOTTOM: #cfdce6 4px double; FONT-STYLE: italic; TEXT-ALIGN: right
+	FONT-SIZE: 24px; WIDTH: 100%; COLOR: #406480; BORDER-BOTTOM: #cfdce6 4px double; FONT-STYLE: bold; TEXT-ALIGN: left
 }
 H4 {
 	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #003333; TEXT-ALIGN: left
